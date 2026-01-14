@@ -1,4 +1,4 @@
-# Hello there 👋, I,m Harrys Santiago
+# Hello there 👋, I'm Harrys Santiago
 ## 💫 About Me
 👨‍🎓 Currently studying<br>🚀 Working on various personal projects<br>📚 Constantly learning new skills
 
